@@ -1,7 +1,7 @@
 export const People = [
     {
       id: '1',
-      name: 'Alan Bello',
+      name: 'Julian Gonzalez',
       category: 'manager',
       'category-image': 'manager.png',
       company: 'Planet of the Grapes',
