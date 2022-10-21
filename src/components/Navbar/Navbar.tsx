@@ -18,7 +18,7 @@ const Navbar: React.FC<NavbarInterface> = () => {
       <AppBar position="fixed" sx={{ background: "#454545" }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Employees Management
+            Employees Management Table
           </Typography>
           <Button variant="contained" onClick={handleClick}>
             Favorites
